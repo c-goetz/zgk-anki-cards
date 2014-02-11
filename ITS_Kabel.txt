@@ -1,0 +1,30 @@
+# ITS::Kabeltypen
+American Wire Gauge; nordamerikanische Kodierung für den Drahtdurchmesser </br> für Litzen und Draht
+Basic Link; veraltetes Messverfahren, bei dem Leitung, Dosen und Patchleitung gemessen wird
+Break Out Kabel; Mehrkanalkabel aus vollwertigen Einzelkabeln, geringerer Durchmesser und Biegeradius wie Bündeladern
+Brechungsindex; Maßzahl für die Brechung des Lichts an der Grenzfläche zweier Materialien. sin(a) / sin(b) = c1 / c2 = n1 / n2
+Buffer Coating; Beschichtung optischer Kabel zum Schutz, mechanischen Isolation und Identifizierung, meist aus Kunststoff
+Cladding; Lichtleiter Schicht um den Core, durch geringeren Brechungsindex kommt es am Übergang core zu cladding zu Totalreflecxion
+Dispersion; Ist der Effekt, dass Licht je nach Wellenlänge anderst gebrochen wird.
+FCPC-Stecker; LWL Steckverbingung</br> Verriegelung über Bajonettverschluss</br> 2,5 mm Ferrule</br> Endfläche konvex geschliffen
+Ferrule;Röhrchen, das im Stecker die  Glasfaser aufnimmt. 
+F-SMA 905 Stecker; ausschlieslich für Multimodefasern </br> sehr robust </br> hohe Einfügedämpfung </br> keine Verdrehsicherung
+Gradientenprofil; Brechzahl des Kerns nimmt parabelförmig zum Mantel ab. Dadurch werden die verschiedenen Wellenlängen weich gebrochen. Eignet sich so für lange Strecken
+CAT 8; vier STP Adernpaare </br> Bandbreite von 2GHz </br> RJ45 Stecker </br> 40 Gbit/s bis 30m
+LC Stecker; für Single- und Multimode </br> sehr klein </br> ca. 0,5 vom SC Stecker
+SC Stecker; für Single- und Multimode </br> sehr klein
+Linkklassen; Spezifikation aller Anschlusselemente bis zur Anschlussdose von A - FA, je höher desto besser
+Monomode Fasern; Glasfaser zur Übertragung von Licht einer einzigen Wellenlänge </br> Durchmesser ist ein Vielfaches der Wellenlänge </br> keine Totalreflexion, Licht breitet sich geradlinig aus
+
+#Nebensprechen;
+#OM1-3;
+#OS1-2;
+#Permanentlink;
+#Pigtail;
+#SC und ST Verbindungen;
+#Schirmung;
+#Singlemode Fasern;
+#ST Stecker;
+#Stufenindex Profil;
+#Verstärkung und Dämpfung;
+#CAT-Kategorien;
