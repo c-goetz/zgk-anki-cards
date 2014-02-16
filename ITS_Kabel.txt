@@ -15,16 +15,20 @@ LC Stecker; für Single- und Multimode </br> sehr klein </br> ca. 0,5 vom SC Ste
 SC Stecker; für Single- und Multimode </br> sehr klein
 Linkklassen; Spezifikation aller Anschlusselemente bis zur Anschlussdose von A - FA, je höher desto besser
 Monomode Fasern; Glasfaser zur Übertragung von Licht einer einzigen Wellenlänge </br> Durchmesser ist ein Vielfaches der Wellenlänge </br> keine Totalreflexion, Licht breitet sich geradlinig aus
-
-#Nebensprechen;
-#OM1-3;
-#OS1-2;
-#Permanentlink;
-#Pigtail;
-#SC und ST Verbindungen;
-#Schirmung;
-#Singlemode Fasern;
-#ST Stecker;
-#Stufenindex Profil;
-#Verstärkung und Dämpfung;
-#CAT-Kategorien;
+Nebensprechen;unerünschte gegenseitige Beeinflußung der Signale benachbarter Kabel. 
+NEXT; Nahnebensprechen, tritt auf der Seite des Senders auf. Stärker als FEXT
+FEXT; Fernnebensprechen, tritt auf der Seite des Empfängers auf. Schwächer als NEXT
+OM1-3; Faserkategorien für Multimodefasern bei LWL. OM1 und 2 sind für Einsatz von LEDs geeignet
+OS1-2; Faserkategorien für Singlemodefasern. Unterscheiden sich bei der maximalen Dämpfung
+Permanentlink; Messstrecke zwischen Dosen. Nur fest verlegte und unveränderliche Komponenten
+Pigtail; Einzelne ungebufferte Faser, auf einer Seite mit einem Stecker versehen. Die andere Seite ist zum Spleßen gedacht
+SC und ST Verbindungen; LWL Steckverbindungen, SC ist der Standard für 100BaseF
+Schirmung; schirmt Kabel vor E-Feldern um Interferenzen zu vermeiden
+Multimode Fasern; Fasern in denen Licht unterschiedlicher Wellenlänge übertragen wird. Die unterschiedlichen Wellenlängen werden unterschiedlich durch Totalreflexion reflektiert, wodurch es zu Laufzeitunterschieden kommt. Daher ist Multimode nur für kürzere Distanzen geeignet.
+ST Stecker; Stecker für LWL mit Bajonettverschluss
+Stufenindex Profil; starke und plötzliche Änderung des Brechungsgrades beim Übergang vom Mantel zum Kernglas. Dadurch härtere Reflexion der einzelnen Wellenlängen. Führt zu unterschiedlichen Laufzeiten --> schlechter Signal
+Dämpfung; Signalqualtität nimmt ab. Schlechtere Übertragungsgeschwindigkeit durch erhöhte Fehler
+Verstärkung; ein schwaches Signal wird verstärkt um längere Übertragungswege zu ermöglichen. In Switches wird das Signal auch korrigiert.
+CAT-Kategorien; von CAT1 - CAT7a. Unterschiedliche Kabelkategorien für TwistedPairKabel wobei  sich höhere Kategorien für höhere Übertragungsgeschwindigkeiten eignen
+CAT3; ungeschirmt, Standard bei Telfonverkabelung und ISDN, sollte bei diesen Einsatzgebieten CAT5 vorgezogen werden. Bis 16MHz
+CAT5/5e; stellt den Großteil der installierten Basis. CAT5e ermöglicht Gigabit Ethernet. Bis 100MHz
