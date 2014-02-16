@@ -1,4 +1,4 @@
-# ITS::Kabeltypen
+# ITS::Verkabelung
 American Wire Gauge; nordamerikanische Kodierung für den Drahtdurchmesser </br> für Litzen und Draht
 Basic Link; veraltetes Messverfahren, bei dem Leitung, Dosen und Patchleitung gemessen wird
 Break Out Kabel; Mehrkanalkabel aus vollwertigen Einzelkabeln, geringerer Durchmesser und Biegeradius wie Bündeladern
@@ -32,3 +32,16 @@ Verstärkung; ein schwaches Signal wird verstärkt um längere Übertragungswege
 CAT-Kategorien; von CAT1 - CAT7a. Unterschiedliche Kabelkategorien für TwistedPairKabel wobei  sich höhere Kategorien für höhere Übertragungsgeschwindigkeiten eignen
 CAT3; ungeschirmt, Standard bei Telfonverkabelung und ISDN, sollte bei diesen Einsatzgebieten CAT5 vorgezogen werden. Bis 16MHz
 CAT5/5e; stellt den Großteil der installierten Basis. CAT5e ermöglicht Gigabit Ethernet. Bis 100MHz
+Tertiärbereich; Stockwerkverkabelung mit Kupfer oder LWL
+Sekundärbereich; Stockwerkverbindung mit Kupfer oder LWL
+Primärbereich; Gebäudeverbingung mit LWL
+alte Benennung CAT5 Kabelbeschaffenheit; U/UTP komplett ohne Schirm
+alte Benennung CAT5e Kabelbeschaffenheit; F/UTP das gesamte Kabel wird durch Foliegeschirmt
+CAT6 Kabelbeschaffenheit; U/FTP jedes Adernpaar wird durch Folie geschirmt
+CAT7a Kabelbeschaffenheit; S/FTP jedes Adernpaar wird durch Folie geschirmt. Das gesamte Kabel wird durch ein Cu-Geflecht geschirmt
+Welche 3 Eigenschaften beeinflußen die Übertragungseigenschaften von Cu-Kabeln bei niedrigen Frequenzen?; Leiterwiderstand </br> Isolierwiderstand </br> Betriebskapazität
+Leiterwiderstand; abhängig von Querschnitt, Länge und Material
+Isolierwiderstand; abhängig von Isolierstoff, nimmt bei steigender Länge zu
+Betriebskapazität; ergibt sich aus Kapazitäten der Einzeladern, steigt linear mit der Länge
+Welche 5 Eigenschaften beeinflußen die Übertragungseigenschaften von Cu-Kabeln bei hohen Frequenzen?; Wellenwiderstand </br> Leitungsdämpfung </br> Nebensprechen </br> Übersprechdämpfen </br> Erdungssymmetrie
+
